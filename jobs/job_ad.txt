@@ -1,0 +1,4 @@
+Paste the job advertisement here.
+
+Example:
+We are looking for a Software Integration Engineer with experience in embedded systems, CI/CD, Python, C/C++, and system testing.

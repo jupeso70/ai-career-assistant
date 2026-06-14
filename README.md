@@ -157,3 +157,19 @@ Missing Skills:
 ## License
 
 MIT License
+
+## Roadmap
+
+### v0.2
+- Better scoring algorithm
+- Transferable skills analysis
+
+### v0.3
+- Job advertisement PDF support
+- DOCX cover letter export
+
+### v0.4
+- CV optimization suggestions
+
+### v1.0
+- Streamlit web interface

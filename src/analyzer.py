@@ -34,6 +34,22 @@ List the strongest matches between the CV and the job advertisement.
 ## Missing or Weak Areas
 List missing, weak, or unclear areas.
 
+## Transferable Skills
+Identify experience from the candidate's background that can transfer successfully into this role.
+
+Use this format:
+
+- Current experience: ...
+  Transferable to: ...
+  Why it matters: ...
+
+Focus especially on mapping:
+- automotive radar experience to sensor systems
+- embedded software integration to platform/system integration
+- CI/CD and release management to continuous delivery
+- system testing cooperation to verification and validation
+- international customer deliveries to stakeholder collaboration
+
 ## Suggested CV Improvements
 Suggest concrete wording or keyword improvements.
 

@@ -6,3 +6,5 @@ reports/*.md
 .idea/
 .vscode/
 .DS_Store
+cv/cv.pdf
+jobs/job_ad.txt

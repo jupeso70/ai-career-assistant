@@ -14,6 +14,7 @@ This project is designed as a practical first AI-agent project using Python, PDF
 - Suggest CV improvements
 - Generate a tailored cover letter draft
 - Export results as Markdown files
+- Transferable skills analysis
 
 ## Technology Stack
 
@@ -161,10 +162,10 @@ MIT License
 ## Roadmap
 
 ### v0.2
-- Better scoring algorithm
-- Transferable skills analysis
+- Transferable skills analysis ✅
 
 ### v0.3
+- Better scoring algorithm
 - Job advertisement PDF support
 - DOCX cover letter export
 
